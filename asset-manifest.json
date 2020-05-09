@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webshop-ecommerce/static/css/main.fbe79bd4.chunk.css",
+    "main.js": "/webshop-ecommerce/static/js/main.a9893657.chunk.js",
+    "main.js.map": "/webshop-ecommerce/static/js/main.a9893657.chunk.js.map",
+    "runtime-main.js": "/webshop-ecommerce/static/js/runtime-main.c21c33ec.js",
+    "runtime-main.js.map": "/webshop-ecommerce/static/js/runtime-main.c21c33ec.js.map",
+    "static/js/2.b12c7bd2.chunk.js": "/webshop-ecommerce/static/js/2.b12c7bd2.chunk.js",
+    "static/js/2.b12c7bd2.chunk.js.map": "/webshop-ecommerce/static/js/2.b12c7bd2.chunk.js.map",
+    "index.html": "/webshop-ecommerce/index.html",
+    "precache-manifest.a773eb9b1ffcb487cf89c6a6df0df91d.js": "/webshop-ecommerce/precache-manifest.a773eb9b1ffcb487cf89c6a6df0df91d.js",
+    "service-worker.js": "/webshop-ecommerce/service-worker.js",
+    "static/css/main.fbe79bd4.chunk.css.map": "/webshop-ecommerce/static/css/main.fbe79bd4.chunk.css.map",
+    "static/js/2.b12c7bd2.chunk.js.LICENSE.txt": "/webshop-ecommerce/static/js/2.b12c7bd2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/webshop-ecommerce/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c21c33ec.js",
+    "static/js/2.b12c7bd2.chunk.js",
+    "static/css/main.fbe79bd4.chunk.css",
+    "static/js/main.a9893657.chunk.js"
+  ]
+}
